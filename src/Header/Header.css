@@ -1,0 +1,29 @@
+
+.header-area {
+    background: forestgreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.menu-area a {
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+    text-transform: uppercase;
+    opacity: .7;
+
+    
+
+}
+
+.menu-area a:hover{
+    opacity: 1;
+    font-size: 20px;
+}
+
+.header{
+    text-transform: uppercase;
+    color: white;
+    font-size: 20px;
+}
